@@ -1,17 +1,4 @@
 // Eserzio 1: Manipolazione di stringhe e numeri 
-/*
-const analizzaTesto = (x) => {
-    let analizzaTesto = "Javascript è fantastico";
-    let analizzaTesto = analizzaTesto.toLowerCase();
-    let parolaInvertita = "";
-    for (let i = x.length - 1; i >= 0; i--) {
-        parolaInvertita += x[i];
-    }
-    return parolaInvertita
-}
-
-console.log(analizzaTesto);
-*/
 
 const analizzaTesto = (x) => {
     let testoInMinuscolo = x.toLowerCase();
