@@ -1,5 +1,5 @@
 // Eserzio 1: Manipolazione di stringhe e numeri 
-
+/*
 const analizzaTesto = (x) => {
     let testoInMinuscolo = x.toLowerCase();
 
@@ -17,3 +17,12 @@ const analizzaTesto = (x) => {
 const risultato = analizzaTesto("Javascript è Fantastico");
 console.log(risultato.testoInMinuscolo);
 console.log(risultato.parolaInvertita);
+*/
+
+//Esercizio 2: Funzioni, scoping e cicli
+function riempiArray(numeroElementi, valoreMinimo, valoreMasismo) {
+    const arrayNumeriCasuali = [];
+    for (let i = 0; i < numeroElementi; i++) {
+
+    }
+}
